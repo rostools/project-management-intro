@@ -1,0 +1,29 @@
+# TODO: Lesson title here
+
+{{< include /includes/_wip.qmd >}}
+
+<!-- TODO: Add an introduction here -->
+
+## Learning objectives
+
+The overall learning outcome for this session is to:
+
+1. 
+
+Specific learning objectives are:
+
+## TODO: Section
+
+::: callout-note
+## Reading task: \~4 minutes
+
+TODO: Reading text
+:::
+
+## Exercise: TODO: Add title
+
+> Time: \## minutes.
+
+## Summary
+
+-   TODO: List of summary items

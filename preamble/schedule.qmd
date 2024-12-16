@@ -1,0 +1,17 @@
+# Schedule {#sec-schedule}
+
+{{< include /includes/_wip.qmd >}}
+
+The course is structured as a single participatory live-coding
+session interspersed with a few hands-on exercises. The
+*general* schedule outline is shown in the below table.
+Instead, it is meant to be an approximate
+guide and overview.
+
+| Session topic |
+|:---|
+| {{< fa mug-hot >}} Arrival; Coffee and light breakfast |
+| {{< fa person-chalkboard >}} [Introduction to the course](/sessions/introduction.qmd) |
+| {{< fa mug-hot >}} Break |
+| {{< fa laptop-code >}} TBD |
+| {{< fa comment-dots >}} [End of session short survey]() |

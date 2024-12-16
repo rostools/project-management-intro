@@ -1,0 +1,42 @@
+project:
+  type: r3-theme
+  # pre-render: quarto render slides/*.qmd
+  # resources:
+  #   - slides/*.html
+
+book:
+  title: "Intro to Project Management with GitHub"
+  author: 
+    - Signe Kirk Brødbæk
+    - Luke W. Johnston
+  date: last-modified
+  repo-url: https://github.com/rostools/tutorial-project-management-intro/
+  site-url: https://tutorial-project-management-intro.rostools.org/
+  chapters:
+    - index.qmd
+    - part: "Preamble"
+      chapters:
+      - preamble/syllabus.qmd
+      - preamble/schedule.qmd
+      - preamble/pre-course.qmd
+    - part: "Sessions"
+      chapters:
+      - sessions/introduction.qmd
+      - sessions/lesson.qmd
+  appendices:
+    - appendix/for-instructors.qmd
+    - appendix/references.qmd
+  page-footer:
+    center:
+      - text: "License: CC BY 4.0 {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}"
+        href: LICENSE.html
+      - text: "Code of Conduct"
+        href: "https://guides.rostools.org/conduct.html"
+
+format:
+  r3-theme-html: default
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true

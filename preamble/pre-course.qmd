@@ -1,0 +1,90 @@
+# Pre-course tasks {#sec-pre-course}
+
+{{< include /includes/_wip.qmd >}}
+
+In order to participate in this course, you must complete everything in
+this pre-course tasks section and finish with **completing the
+[survey]()** at the end. These tasks are designed to make it easier for
+everyone to start the course with everything set up. For some of the
+tasks, you might not understand why you need to do them, but you will
+likely understand why once the course begins.
+
+Depending on your skills and knowledge, these tasks could take between
+**3-5 hrs to finish**, so we suggest planning a full day to complete
+them. Depending on your institution and how they handle installing
+software on work computers, you also might have to contact IT *very
+early* to make sure everything is properly installed and setup.
+
+## Summary of tasks
+
+Here's a quick overview of the tasks you need to do. Specific details
+about them are found as you work through the tasks.
+
+1.  Install a version of R, RStudio, Quarto, and Git that is as updated
+    as possible. For some people, depending on their institution, this
+    task can take the **longest amount of time** because you have to
+    contact your IT to install these packages.
+2.  Install necessary R packages.
+3.  TODO: Add more tasks
+4.  Read the syllabus (@sec-syllabus).
+5.  Read the [Code of
+    Conduct](https://guides.rostools.org/conduct.html).
+6.  Complete the pre-course [survey](): This survey is pretty quick,
+    maybe \~10 minutes. There will be some bits from the tasks that you
+    will need to paste into this survey.
+
+Check each section for exact details on completing these tasks.
+
+## Learning objective
+
+In general, these pre-course tasks are meant to help prepare you for the
+course and make sure everything is setup properly so the first session
+runs smoothly. However, some of these tasks are meant for learning as
+well as for general setup, so we have defined the following learning
+objectives for this page:
+
+1.  TODO: List objectives
+
+## Reading the course website {#sec-reading-website}
+
+```{r}
+#| echo: false
+#| eval: true
+#| results: asis
+cat(r3admin::read_common("reading-website.md"), sep = "\n")
+```
+
+## Installing the latest programs {#sec-install-programs}
+
+```{r}
+#| echo: false
+#| eval: true
+#| results: asis
+cat(r3admin::read_common("installing-programs.md"), sep = "\n")
+```
+
+## TODO: Next section
+
+## Course basics
+
+If you haven't read the syllabus, **please read it now**. Read over what
+the course will cover, what we expect you to learn by the end of it, and
+what our basic assumptions are about who you are and what you already
+know. At the end of this section, we'll ask you a few questions to see
+if you understand what you'll learn in the course.
+
+One goal of the course is to teach about open science, and true to our
+mission, we practice what we preach. The course material is publicly
+accessible (all on this website) and [openly licensed]() so you can
+(re-)use it for free! The material is organized in the order that we
+will cover it in the course.
+
+We have a [Code of Conduct](https://guides.rostools.org/conduct.html).
+If you haven't read it, **read it now**. The survey involves a question
+about Conduct. We want to make sure this course is a supportive and safe
+environment for learning, so this Code of Conduct is quite important.
+
+You're almost done. Please fill out the pre-course survey to finish this
+section, either [at this link]().
+
+See you at the course!
