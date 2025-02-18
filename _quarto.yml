@@ -10,8 +10,8 @@ book:
     - Signe Kirk Brødbæk
     - Luke W. Johnston
   date: last-modified
-  repo-url: https://github.com/rostools/tutorial-project-management-intro/
-  site-url: https://tutorial-project-management-intro.rostools.org/
+  repo-url: https://github.com/rostools/project-management-intro/
+  site-url: https://project-management-intro.rostools.org/
   chapters:
     - index.qmd
     - part: "Preamble"
